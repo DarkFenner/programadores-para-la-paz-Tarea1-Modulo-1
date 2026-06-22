@@ -1,0 +1,4 @@
+Para un desarrollado es importnate porque la terminal permite interactuar de forma rapida y eficiente con el sistema operativo
+y los archivos de un proyecto. Permitiendo crear, mover, eliminar y copiar archivos sin necesidad de una interfaz grafica.
+Ejecutar herramientas de desarrllo y automatizar tareas repetitivas mediante scripts.
+En resumen saber usar la terminal permite a un desarrollado organizarse de manera adecuada y gestionando mejor su entorno
